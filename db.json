@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Грачева Виктория",
+      "gender": "женский",
+      "work_position": "backend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 2,
+      "name": "Павлова Диана",
+      "gender": "женский",
+      "work_position": "frontend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 3,
+      "name": "Синицын Платон",
+      "gender": "мужской",
+      "work_position": "дизайнер",
+      "department": "Дизайн",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 4,
+      "name": "Николаев Михаил",
+      "gender": "мужской",
+      "work_position": "backend-разработчик",
+      "department": "Отдел проектной разработки",
+      "company_name": "ООО “Логика””",
+      "company_locate": "Волгоград",
+      "team_name": "Руки",
+      "employment": "частичная"
+    },
+    {
+      "id": 5,
+      "name": "Баранова Анна",
+      "gender": "женский",
+      "work_position": "технический руководитель отдела",
+      "department": "Факт.Управление",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 6,
+      "name": "Михеев Артём",
+      "gender": "мужской",
+      "work_position": "директор",
+      "department": "Факт.Управление",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 7,
+      "name": "Еремина Алиса",
+      "gender": "женский",
+      "work_position": "менеджер проектов",
+      "department": "Отдел проектной разработки",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Волгоград",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 8,
+      "name": "Булатова Ульяна",
+      "gender": "женский",
+      "work_position": "технический руководитель отдела",
+      "department": "Факт.Управление",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Уфа",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 9,
+      "name": "Романов Иван",
+      "gender": "мужской",
+      "work_position": "backend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 10,
+      "name": "Большаков Фёдор",
+      "gender": "мужской",
+      "work_position": "backend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Санкт-Петербург",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 11,
+      "name": "Титова Варвара",
+      "gender": "женский",
+      "work_position": "frontend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Санкт-Петербург",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 12,
+      "name": "Медведева Алиса",
+      "gender": "женский",
+      "work_position": "frontend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Оренбург",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 13,
+      "name": "Зайцева Мария",
+      "gender": "женский",
+      "work_position": "frontend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Севастополь",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 14,
+      "name": "Большакова Полина",
+      "gender": "женский",
+      "work_position": "дизайнер",
+      "department": "Дизайн",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Севастополь",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 15,
+      "name": "Минин Артём",
+      "gender": "мужской",
+      "work_position": "менеджер проектов",
+      "department": "Отдел проектной разработки",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Самара",
+      "team_name": "Руки",
+      "employment": "полная"
+    },
+    {
+      "id": 16,
+      "name": "Быков Иван",
+      "gender": "мужской",
+      "work_position": "менеджер проектов",
+      "department": "Отдел проектной разработки",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Магнитогорск",
+      "team_name": "Руки",
+      "employment": "полная"
+    },
+    {
+      "id": 17,
+      "name": "Архипов Елисей",
+      "gender": "мужской",
+      "work_position": "frontend-разработчик",
+      "department": "Заказная/продуктовая разработка",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Санкт-Петербург",
+      "team_name": "Проект МояКоманда",
+      "employment": "полная"
+    },
+    {
+      "id": 18,
+      "name": "Миронова Александра",
+      "gender": "женский",
+      "work_position": "дизайнер",
+      "department": "Дизайн",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Александровск",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    },
+    {
+      "id": 19,
+      "name": "Соловьева Милана",
+      "gender": "женский",
+      "work_position": "менеджер проектов",
+      "department": "Факт.Руки",
+      "company_name": "ООО “Логика”",
+      "company_locate": "Севастополь",
+      "team_name": "Руки",
+      "employment": "полная"
+    },
+    {
+      "id": 20,
+      "name": "Ефимов Матвей",
+      "gender": "мужской",
+      "work_position": "технический руководитель отдела",
+      "department": "Факт.Управление",
+      "company_name": "ООО ЦИТ “Факт”",
+      "company_locate": "Александровск",
+      "team_name": "Проект МояКоманда",
+      "employment": "частичная"
+    }
+  ]
+}
