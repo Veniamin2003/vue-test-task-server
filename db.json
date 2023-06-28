@@ -7,12 +7,12 @@
       "params": {
         "gender": {
           "label": "Пол",
-          "value": "женский",
+          "value": "Женский",
           "isVisible": true
         },
         "work_position": {
           "label": "Должность",
-          "value": "backend-разработчик",
+          "value": "Backend-разработчик",
           "isVisible": true
         },
         "department": {
@@ -37,7 +37,7 @@
         },
         "employment": {
           "label": "Вид занятости",
-          "value": "полная",
+          "value": "Полная",
           "isVisible": false
         }
       }
@@ -49,12 +49,12 @@
       "params": {
         "gender": {
           "label": "Пол",
-          "value": "женский",
+          "value": "Женский",
           "isVisible": true
         },
         "work_position": {
           "label": "Должность",
-          "value": "frontend-разработчик",
+          "value": "Frontend-разработчик",
           "isVisible": true
         },
         "department": {
@@ -79,7 +79,7 @@
         },
         "employment": {
           "label": "Вид занятости",
-          "value": "полная",
+          "value": "Полная",
           "isVisible": false
         }
       }
@@ -91,12 +91,12 @@
       "params": {
         "gender": {
           "label": "Пол",
-          "value": "мужской",
+          "value": "Мужской",
           "isVisible": true
         },
         "work_position": {
           "label": "Должность",
-          "value": "дизайнер",
+          "value": "Дизайнер",
           "isVisible": true
         },
         "department": {
@@ -121,7 +121,7 @@
         },
         "employment": {
           "label": "Вид занятости",
-          "value": "полная",
+          "value": "Полная",
           "isVisible": false
         }
       }
@@ -133,12 +133,12 @@
       "params": {
         "gender": {
           "label": "Пол",
-          "value": "мужской",
+          "value": "Мужской",
           "isVisible": true
         },
         "work_position": {
           "label": "Должность",
-          "value": "backend-разработчик",
+          "value": "Backend-разработчик",
           "isVisible": true
         },
         "department": {
@@ -163,7 +163,7 @@
         },
         "employment": {
           "label": "Вид занятости",
-          "value": "частичная",
+          "value": "Частичная",
           "isVisible": false
         }
       }
