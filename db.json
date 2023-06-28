@@ -7,37 +7,37 @@
         "gender": {
           "label": "Пол",
           "value": "женский",
-          "visible": true
+          "isVisible": true
         },
         "work_position": {
           "label": "Должность",
           "value": "backend-разработчик",
-          "visible": true
+          "isVisible": true
         },
         "department": {
           "label": "Отдел",
           "value": "Заказная/продуктовая разработка",
-          "visible": true
+          "isVisible": true
         },
         "company_name": {
           "label": "Компания",
           "value": "ООО ЦИТ “Факт“",
-          "visible": true
+          "isVisible": true
         },
         "company_locate": {
           "label": "Локация",
           "value": "Магнитогорск",
-          "visible": true
+          "isVisible": true
         },
         "team_name": {
           "label": "Команда",
           "value": "Проект МояКоманда",
-          "visible": false
+          "isVisible": false
         },
         "employment": {
           "label": "Вид занятости",
           "value": "полная",
-          "visible": false
+          "isVisible": false
         }
       }
     },
@@ -48,37 +48,37 @@
         "gender": {
           "label": "Пол",
           "value": "женский",
-          "visible": true
+          "isVisible": true
         },
         "work_position": {
           "label": "Должность",
           "value": "frontend-разработчик",
-          "visible": true
+          "isVisible": true
         },
         "department": {
           "label": "Отдел",
           "value": "Заказная/продуктовая разработка",
-          "visible": true
+          "isVisible": true
         },
         "company_name": {
           "label": "Компания",
           "value": "ООО “Логика”",
-          "visible": true
+          "isVisible": true
         },
         "company_locate": {
           "label": "Локация",
           "value": "Магнитогорск",
-          "visible": true
+          "isVisible": true
         },
         "team_name": {
           "label": "Команда",
           "value": "Проект МояКоманда",
-          "visible": false
+          "isVisible": false
         },
         "employment": {
           "label": "Вид занятости",
           "value": "полная",
-          "visible": false
+          "isVisible": false
         }
       }
     },
@@ -89,37 +89,37 @@
         "gender": {
           "label": "Пол",
           "value": "мужской",
-          "visible": true
+          "isVisible": true
         },
         "work_position": {
           "label": "Должность",
           "value": "дизайнер",
-          "visible": true
+          "isVisible": true
         },
         "department": {
           "label": "Отдел",
           "value": "Дизайн",
-          "visible": true
+          "isVisible": true
         },
         "company_name": {
           "label": "Компания",
           "value": "ООО ЦИТ “Факт”",
-          "visible": true
+          "isVisible": true
         },
         "company_locate": {
           "label": "Локация",
           "value": "Магнитогорск",
-          "visible": true
+          "isVisible": true
         },
         "team_name": {
           "label": "Команда",
           "value": "Проект МояКоманда",
-          "visible": false
+          "isVisible": false
         },
         "employment": {
           "label": "Вид занятости",
           "value": "полная",
-          "visible": false
+          "isVisible": false
         }
       }
     },
@@ -130,37 +130,37 @@
         "gender": {
           "label": "Пол",
           "value": "мужской",
-          "visible": true
+          "isVisible": true
         },
         "work_position": {
           "label": "Должность",
           "value": "backend-разработчик",
-          "visible": true
+          "isVisible": true
         },
         "department": {
           "label": "Отдел",
           "value": "Отдел проектной разработки",
-          "visible": true
+          "isVisible": true
         },
         "company_name": {
           "label": "Компания",
           "value": "ООО “Логика”",
-          "visible": true
+          "isVisible": true
         },
         "company_locate": {
           "label": "Локация",
           "value": "Волгоград",
-          "visible": true
+          "isVisible": true
         },
         "team_name": {
           "label": "Команда",
           "value": "Руки",
-          "visible": false
+          "isVisible": false
         },
         "employment": {
           "label": "Вид занятости",
           "value": "частичная",
-          "visible": false
+          "isVisible": false
         }
       }
     },
@@ -171,37 +171,37 @@
         "gender": {
           "label": "Пол",
           "value": "Женский",
-          "visible": true
+          "isVisible": true
         },
         "work_position": {
           "label": "Должность",
           "value": "Технический руководитель отдела",
-          "visible": true
+          "isVisible": true
         },
         "department": {
           "label": "Отдел",
           "value": "Факт.Управление",
-          "visible": true
+          "isVisible": true
         },
         "company_name": {
           "label": "Компания",
           "value": "ООО ЦИТ “Факт”",
-          "visible": true
+          "isVisible": true
         },
         "company_locate": {
           "label": "Локация",
           "value": "Магнитогорск",
-          "visible": true
+          "isVisible": true
         },
         "team_name": {
           "label": "Команда",
           "value": "Проект МояКоманда",
-          "visible": false
+          "isVisible": false
         },
         "employment": {
           "label": "Вид занятости",
           "value": "Полная",
-          "visible": false
+          "isVisible": false
         }
       }
     }
