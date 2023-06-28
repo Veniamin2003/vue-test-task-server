@@ -91,7 +91,7 @@
       "params": {
         "gender": {
           "label": "Пол",
-          "value": "Мужской",
+          "value": "no gender",
           "isVisible": true
         },
         "work_position": {
