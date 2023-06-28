@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Грачева Виктория",
+      "image": "1.jpg",
       "params": {
         "gender": {
           "label": "Пол",
@@ -44,6 +45,7 @@
     {
       "id": 2,
       "name": "Павлова Диана",
+      "image": "2.jpg",
       "params": {
         "gender": {
           "label": "Пол",
@@ -85,6 +87,7 @@
     {
       "id": 3,
       "name": "Синицын Платон",
+      "image": "3.jpg",
       "params": {
         "gender": {
           "label": "Пол",
@@ -126,6 +129,7 @@
     {
       "id": 4,
       "name": "Николаев Михаил",
+      "image": "4.jpg",
       "params": {
         "gender": {
           "label": "Пол",
@@ -167,6 +171,7 @@
     {
       "id": 5,
       "name": "Баранова Анна",
+      "image": "5.jpg",
       "params": {
         "gender": {
           "label": "Пол",
