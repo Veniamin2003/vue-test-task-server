@@ -214,23 +214,47 @@
   "filters": [
     {
       "id": 1,
-      "name": "Пол",
-      "params": {
-        "man": "Мужской",
-        "woman": "Женский"
-      }
+      "filter_name": "Пол",
+      "params": [
+        {
+          "value": "man",
+          "name": "Мужской"
+        },
+        {
+          "value": "women",
+          "name": "Женский"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Должность",
-      "params": {
-        "back": "Backend-разработчик",
-        "front": "Frontend-разработчик",
-        "director": "Директор",
-        "teh-director": "Технический руководитель отдела",
-        "designer": "Дизайнер",
-        "project-manager": "Менеджер проектов"
-      }
+      "filter_name": "Должность",
+      "params": [
+        {
+          "value": "back",
+          "name": "Backend-разработчик"
+        },
+        {
+          "value": "front",
+          "name": "Frontend-разработчик"
+        },
+        {
+          "value": "director",
+          "name": "Директор"
+        },
+        {
+          "value": "teh-director",
+          "name": "Технический руководитель отдела"
+        },
+        {
+          "value": "designer",
+          "name": "Дизайнер"
+        },
+        {
+          "value": "project-manager",
+          "name": "Менеджер проектов"
+        }
+      ]
     }
   ]
 }
