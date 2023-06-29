@@ -217,11 +217,11 @@
       "filter_name": "Пол",
       "params": [
         {
-          "value": 1,
+          "value": "man",
           "name": "Мужской"
         },
         {
-          "value": 2,
+          "value": "women",
           "name": "Женский"
         }
       ]
@@ -231,27 +231,27 @@
       "filter_name": "Должность",
       "params": [
         {
-          "value": 1,
+          "value": "back",
           "name": "Backend-разработчик"
         },
         {
-          "value": 3,
+          "value": "front",
           "name": "Frontend-разработчик"
         },
         {
-          "value": 4,
+          "value": "director",
           "name": "Директор"
         },
         {
-          "value": 4,
+          "value": "teh-director",
           "name": "Технический руководитель отдела"
         },
         {
-          "value": 5,
+          "value": "designer",
           "name": "Дизайнер"
         },
         {
-          "value": 6,
+          "value": "project-manager",
           "name": "Менеджер проектов"
         }
       ]
@@ -261,23 +261,23 @@
       "filter_name": "Отдел",
       "params": [
         {
-          "value": 1,
+          "value": "control",
           "name": "Факт.Управление"
         },
         {
-          "value": 2,
+          "value": "project-development",
           "name": "Отдел проектной разработки"
         },
         {
-          "value": 3,
+          "value": "arms",
           "name": "Факт.Руки"
         },
         {
-          "value": 4,
+          "value": "product-development",
           "name": "Заказная/продуктовая разработка"
         },
         {
-          "value": 5,
+          "value": "design",
           "name": "Дизайн"
         }
       ]
@@ -287,11 +287,11 @@
       "filter_name": "Команда",
       "params": [
         {
-          "value": 1,
+          "value": "my-team",
           "name": "Проект МояКоманда"
         },
         {
-          "value": 2,
+          "value": "arms-team",
           "name": "Руки"
         }
       ]
@@ -301,11 +301,11 @@
       "filter_name": "Компания",
       "params": [
         {
-          "value": 1,
+          "value": "my-team",
           "name": "ООО ЦИТ “Факт”"
         },
         {
-          "value": 2,
+          "value": "logics",
           "name": "ООО “Логика”"
         }
       ]
@@ -315,35 +315,31 @@
       "filter_name": "Локация",
       "params": [
         {
-          "value": 1,
+          "value": "mgn",
           "name": "Магнитогорск"
         },
         {
-          "value": 2,
+          "value": "vlgd",
           "name": "Волгоград"
         },
         {
-          "value": 3,
+          "value": "ufa",
           "name": "Уфа"
         },
         {
-          "value": 4,
+          "value": "spb",
           "name": "Санкт-Петербург"
         },
         {
-          "value": 5,
+          "value": "orenburg",
           "name": "Оренбург"
         },
         {
-          "value": 6,
-          "name": "Севастополь"
-        },
-        {
-          "value": 7,
+          "value": "samara",
           "name": "Самара"
         },
         {
-          "value": 8,
+          "value": "alexandrovsk",
           "name": "Александровск"
         }
       ]
@@ -353,11 +349,11 @@
       "filter_name": "Вид занятости",
       "params": [
         {
-          "value": 1,
+          "value": "full",
           "name": "Полная"
         },
         {
-          "value": 2,
+          "value": "part",
           "name": "Частичная"
         }
       ]
