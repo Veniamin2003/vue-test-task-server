@@ -217,11 +217,11 @@
       "filter_name": "Пол",
       "params": [
         {
-          "value": "man",
+          "value": 1,
           "name": "Мужской"
         },
         {
-          "value": "women",
+          "value": 2,
           "name": "Женский"
         }
       ]
@@ -231,28 +231,134 @@
       "filter_name": "Должность",
       "params": [
         {
-          "value": "back",
+          "value": 1,
           "name": "Backend-разработчик"
         },
         {
-          "value": "front",
+          "value": 3,
           "name": "Frontend-разработчик"
         },
         {
-          "value": "director",
+          "value": 4,
           "name": "Директор"
         },
         {
-          "value": "teh-director",
+          "value": 4,
           "name": "Технический руководитель отдела"
         },
         {
-          "value": "designer",
+          "value": 5,
           "name": "Дизайнер"
         },
         {
-          "value": "project-manager",
+          "value": 6,
           "name": "Менеджер проектов"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "filter_name": "Отдел",
+      "params": [
+        {
+          "value": 1,
+          "name": "Факт.Управление"
+        },
+        {
+          "value": 2,
+          "name": "Отдел проектной разработки"
+        },
+        {
+          "value": 3,
+          "name": "Факт.Руки"
+        },
+        {
+          "value": 4,
+          "name": "Заказная/продуктовая разработка"
+        },
+        {
+          "value": 5,
+          "name": "Дизайн"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "filter_name": "Команда",
+      "params": [
+        {
+          "value": 1,
+          "name": "Проект МояКоманда"
+        },
+        {
+          "value": 2,
+          "name": "Руки"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "filter_name": "Компания",
+      "params": [
+        {
+          "value": 1,
+          "name": "ООО ЦИТ “Факт”"
+        },
+        {
+          "value": 2,
+          "name": "ООО “Логика”"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "filter_name": "Локация",
+      "params": [
+        {
+          "value": 1,
+          "name": "Магнитогорск"
+        },
+        {
+          "value": 2,
+          "name": "Волгоград"
+        },
+        {
+          "value": 3,
+          "name": "Уфа"
+        },
+        {
+          "value": 4,
+          "name": "Санкт-Петербург"
+        },
+        {
+          "value": 5,
+          "name": "Оренбург"
+        },
+        {
+          "value": 6,
+          "name": "Севастополь"
+        },
+        {
+          "value": 7,
+          "name": "Самара"
+        },
+        {
+          "value": 8,
+          "name": "Александровск"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "filter_name": "Вид занятости",
+      "params": [
+        {
+          "value": 1,
+          "name": "Полная"
+        },
+        {
+          "value": 2,
+          "name": "Частичная"
         }
       ]
     }
