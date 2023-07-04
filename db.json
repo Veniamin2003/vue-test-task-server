@@ -209,49 +209,6 @@
           "isVisible": false
         }
       }
-    },
-
-    {
-      "id": 13,
-      "name": "Ирина Васильева",
-      "image": "13.jpg",
-      "params": {
-        "gender": {
-          "label": "Пол",
-          "value": "Женский",
-          "isVisible": true
-        },
-        "work_position": {
-          "label": "Должность",
-          "value": "Дизайнер",
-          "isVisible": true
-        },
-        "department": {
-          "label": "Отдел",
-          "value": "Дизайн",
-          "isVisible": true
-        },
-        "company_name": {
-          "label": "Компания",
-          "value": "ООО “Логика”",
-          "isVisible": true
-        },
-        "company_locate": {
-          "label": "Локация",
-          "value": "Магнитогорск",
-          "isVisible": true
-        },
-        "team_name": {
-          "label": "Команда",
-          "value": "Руки",
-          "isVisible": false
-        },
-        "employment": {
-          "label": "Вид занятости",
-          "value": "Частичная",
-          "isVisible": false
-        }
-      }
     }
   ],
   "filters": [
