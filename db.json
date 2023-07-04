@@ -210,48 +210,7 @@
         }
       }
     },
-    {
-      "id": 6,
-      "name": "Анисимов Артем",
-      "image": "6.jpg",
-      "params": {
-        "gender": {
-          "label": "Пол",
-          "value": "Мужской",
-          "isVisible": true
-        },
-        "work_position": {
-          "label": "Должность",
-          "value": "Технический руководитель отдела",
-          "isVisible": true
-        },
-        "department": {
-          "label": "Отдел",
-          "value": "Факт.Управление",
-          "isVisible": true
-        },
-        "company_name": {
-          "label": "Компания",
-          "value": "ООО ЦИТ “Факт”",
-          "isVisible": true
-        },
-        "company_locate": {
-          "label": "Локация",
-          "value": "Магнитогорск",
-          "isVisible": true
-        },
-        "team_name": {
-          "label": "Команда",
-          "value": "Проект МояКоманда",
-          "isVisible": false
-        },
-        "employment": {
-          "label": "Вид занятости",
-          "value": "Полная",
-          "isVisible": false
-        }
-      }
-    },
+
     {
       "id": 13,
       "name": "Ирина Васильева",
