@@ -209,6 +209,342 @@
           "isVisible": false
         }
       }
+    },
+    {
+      "id": 6,
+      "name": "Анисимов Артем",
+      "image": "6.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Мужской",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Технический руководитель отдела",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Факт.Управление",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО ЦИТ “Факт”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Магнитогорск",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Проект МояКоманда",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Полная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Антропов Сергей",
+      "image": "7.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Мужской",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Backend-разработчик",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Отдел проектной разработки",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО “Логика”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Санкт-Петербург",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Руки",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Частичная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Анастасия Сухомлина",
+      "image": "8.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Женский",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Дизайнер",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Дизайн",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО “Логика”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Санкт-Петербург",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Руки",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Частичная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Нила Сидорова",
+      "image": "9.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Женский",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "backend-разработчик",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Заказная/продуктовая разработка",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО ЦИТ “Факт”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Магнитогорск",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Проект МояКоманда",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Полная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Иванищев Вячеслав",
+      "image": "10.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Мужской",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Frontend-разработчик",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Отдел проектной разработки",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО ЦИТ “Факт”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Магнитогорск",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Руки",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Полная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Иванищев Вячеслав",
+      "image": "11.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Мужской",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Backend-разработчик",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "аказная/продуктовая разработка",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО ЦИТ “Факт”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Санкт-Петербург",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Проект МояКоманда",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Полная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Поромонов Дмитрий",
+      "image": "12.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Мужской",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Менеджер проектов",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Факт.Управление",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО ЦИТ “Факт”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Магнитогорск",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Проект МояКоманда",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Полная",
+          "isVisible": false
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ирина Васильева",
+      "image": "13.jpg",
+      "params": {
+        "gender": {
+          "label": "Пол",
+          "value": "Женский",
+          "isVisible": true
+        },
+        "work_position": {
+          "label": "Должность",
+          "value": "Дизайнер",
+          "isVisible": true
+        },
+        "department": {
+          "label": "Отдел",
+          "value": "Дизайн",
+          "isVisible": true
+        },
+        "company_name": {
+          "label": "Компания",
+          "value": "ООО “Логика”",
+          "isVisible": true
+        },
+        "company_locate": {
+          "label": "Локация",
+          "value": "Магнитогорск",
+          "isVisible": true
+        },
+        "team_name": {
+          "label": "Команда",
+          "value": "Руки",
+          "isVisible": false
+        },
+        "employment": {
+          "label": "Вид занятости",
+          "value": "Частичная",
+          "isVisible": false
+        }
+      }
     }
   ],
   "filters": [
